@@ -1,0 +1,7 @@
+git status (sagt den status)
+
+-- neue sachen machen --
+git add -A
+git commit -m "was habe ich gemacht"
+git pull 
+git push 
